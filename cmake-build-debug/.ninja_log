@@ -1,0 +1,7 @@
+# ninja log v5
+56	598	6728344080000000	CMakeFiles/ObserverProject.dir/SubjectImpl.cpp.obj	2294003af6c491e3
+50	782	6728344080000000	CMakeFiles/ObserverProject.dir/main.cpp.obj	b1e1b57791bf0c60
+0	938	6728344080000000	CMakeFiles/ObserverProject.dir/ConcreteObserverImpl.cpp.obj	781a062c06be76ee
+939	1173	6728344080000000	ObserverProject.exe	89b95a188086f893
+6	484	6728344980000000	CMakeFiles/ObserverProject.dir/main.cpp.obj	b1e1b57791bf0c60
+485	712	6728344980000000	ObserverProject.exe	89b95a188086f893
